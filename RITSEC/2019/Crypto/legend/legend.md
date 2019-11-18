@@ -6,7 +6,7 @@ Hint: you need to break a well known cipher!
 Created By Security Risk Advisors for the RITSEC CTF
 ```
 
-[! Spectrum Analysis with Audacity](audacity.png)
+[! Spectrum Analysis with Audacity](https://github.com/ioncodes/excusemewtf/blob/master/RITSEC/2019/Crypto/legend/audacity.png)
 
 @ShiyamotoMigeru
 
@@ -34,9 +34,10 @@ if __name__ == '__main__':
 			main(item)
 		except ZeroDivisionError:
 			pass
-            ```
+            
+```
         
-[! Decoded ](reddit.png)
+[! Decoded ](https://github.com/ioncodes/excusemewtf/blob/master/RITSEC/2019/Crypto/legend/reddit.png)
 
 https://www.reddit.com/user/TH3GR3ATD3KUTR33
 
@@ -46,7 +47,7 @@ t'vu#!L`vuoub!t#va#x#t{~_"{N
 
 ROT47 + ROT13
 
-[! Flag ](flag.png)
+[! Flag ](https://github.com/ioncodes/excusemewtf/blob/master/RITSEC/2019/Crypto/legend/flag.png)
 
 
 FLAG: RITSEC{1TS@S3CRET2EVERYB0DY}
