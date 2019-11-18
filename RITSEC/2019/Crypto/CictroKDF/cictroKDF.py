@@ -12,7 +12,6 @@ def calc(msg):
 
 
 def round(b,i):
-    global state
     a = b
     for k in range(100):
         a = om(pi(a,k),b)
