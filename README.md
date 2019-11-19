@@ -20,3 +20,4 @@ Our solutions/writeups to our CTFs. Find us on [CTFtime](https://ctftime.org/tea
 * imth ~ [Twitter](https://twitter.com/imthoe)
 * morph3 ~ [Twitter](https://twitter.com/melihkaanyldz)
 * goeo_ ~ [Twitter](https://twitter.com/goeo_)
+* deimos ~ [Twitter](https://twitter.com/deimos15981503)
