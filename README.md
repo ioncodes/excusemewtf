@@ -9,6 +9,8 @@ Our solutions/writeups to our CTFs. Find us on [CTFtime](https://ctftime.org/tea
 * ASIS Finals 2019: 41st
 * RITSEC 2019: 2nd
 * TMHCxHTB 2019: 1st
+* justCTF 2019: 8th
+* wtftime 2019: 2nd
 
 ## Teammembers
 * Layle ~ [Twitter](https://twitter.com/ioncodes)
