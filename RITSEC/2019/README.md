@@ -1,19 +1,12 @@
 # RITSEC 2019
 
-Scored 12472 points placing 2nd.
+Scored 4181 points placing 1st.
 
 ## Teammembers
-* Layle
 * r4j
 * ignis
-* Chivato
-* frosters
 * xct
 * jkr
-* Lur
 * imth
-* braindead
 * sampriti
-* goeo_
 * morph3
-* deimos
