@@ -14,7 +14,7 @@ Our solutions/writeups to our CTFs. Find us on [CTFtime](https://ctftime.org/tea
 * InfernoCTF 2019: 1st
 
 ## Teammembers
-* Layle ~ [Twitter](https://twitter.com/ioncodes)
+* Layle ~ [Twitter](https://twitter.com/layle_ctf)
 * Leeky ~ [GitHub](https://github.com/Pusty)
 * Keenan ~ [Twitter](https://twitter.com/Keenan7310)
 * r4j ~ [Twitter](https://twitter.com/r4j0x00)
@@ -26,4 +26,3 @@ Our solutions/writeups to our CTFs. Find us on [CTFtime](https://ctftime.org/tea
 * imth ~ [Twitter](https://twitter.com/imthoe)
 * morph3 ~ [Twitter](https://twitter.com/melihkaanyldz)
 * goeo_ ~ [Twitter](https://twitter.com/goeo_)
-* deimos ~ [Twitter](https://twitter.com/deimos15981503)
